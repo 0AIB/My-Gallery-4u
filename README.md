@@ -1,4 +1,4 @@
-# Lx GALLERY
+## Lx GALLERY
 
 <div align="center">
 
